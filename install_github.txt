@@ -1,0 +1,5 @@
+1. Create account at https://github.com/
+2. Install in windows: https://github.com/cli/cli/releases/download/v2.2.0/gh_2.2.0_windows_amd64.msi
+3. Open 'Git bash' and run:
+    a. gh auth login
+    b. Follow the instruction    
